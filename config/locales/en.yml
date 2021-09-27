@@ -1,0 +1,15 @@
+en:
+  welcome_msg: "Glad to see you in out vending machine! What would you like to bye?\nOur machine can take only 25c, 50c, 1$, 2$ and 5$ (For using machine u need to input 0.25, 0.5, 1, 2, 5 accordingly).\nYou always can finish. Just input 'exit'"
+  choice_msg: "Look at our list of product. Pls, choice one ;)\n"
+  your_choice_msg: "Your choice: "
+  not_found_product_msg: "Product error! Please choice something another"
+  waiting_a_coin: "I'm waiting for a coin: "
+  coin_error_msg: "We cannot take this coin. Pls, try another"
+  payment_info_msg: "You paid: %{paid_coins}\nLeft to pay: %{remaining_amount}"
+  return_info_failed_msg: "Sorry, but we don't have coins to give you all remainder"
+  return_info: "You will give back: "
+  finish_msg: "Thank you for your visiting! Have a good day!"
+  errors:
+    empty_string: "Value must be a string and not empty"
+    positive_integer: "Value must be a positive integer"
+    positive_number: "Price must be a positive number"

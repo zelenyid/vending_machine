@@ -1,5 +1,7 @@
 # vending_machine
 
+The vending machine, once a product is selected and the appropriate amount of money (coins) is inserted, returns that product. It return change (coins) if too much money is provided or ask for more money (coins) if there is not enough.
+
 To run the project, please, run next commands:
 ```
 1. git clone https://github.com/zelenyid/vending_machine.git
